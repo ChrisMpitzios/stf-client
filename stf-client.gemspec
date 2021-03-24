@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
 
   # spec.add_runtime_dependency 'pry', '~> 0.10.4'
 
-  spec.add_development_dependency 'bundler', '~> 1.16.a'
+  spec.add_development_dependency 'bundler'
   spec.add_development_dependency 'rake', '~> 10.0'
   spec.add_development_dependency 'rspec', '~> 3.5'
   spec.add_development_dependency 'rspec_junit_formatter', '~> 0.2'
